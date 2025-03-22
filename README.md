@@ -12,12 +12,15 @@ security resources /budget can use this tool to better understand risks.
 
 &#8226; Email Security (DMARC, SPF)
 
-&#8226; Windows Operating System Version / Patch release artifact
+&#8226; Windows Operating System Version 
 
 &#8226; Bitlocker information checker
+
+&#8226; Applications list and last updates  
 
 
 # Main Features
 
-&#8226; Email address compromise checker | Website vulernability scanner | Email Security (DMARC, SPF)
+&#8226; Email address
+
 
