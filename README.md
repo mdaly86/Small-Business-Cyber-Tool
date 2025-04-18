@@ -24,7 +24,7 @@ security resources /budget can use this tool to better understand level of risk.
 &#8226; Email address
 
 
-# Prerequisites  (To run script)
+# Usage  (To run script)
 
 &#8226; Option 1 - Install WLS on windows machine 
 Open powershell and run 
