@@ -30,6 +30,4 @@ security resources /budget can use this tool to better understand level of risk.
 Open powershell and run 
 (wsl --install)
 
-Or
-
 &#8226; Option 2 - Install Gitbash on windows
