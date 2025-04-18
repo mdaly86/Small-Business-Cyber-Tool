@@ -2,7 +2,7 @@
 
 Small business cyber tool (SBCT) is a powerful forensic tool designed to check the environments
 basic security measures to help protect against cyber threats. Small business customers with limited
-security resources /budget can use this tool to better understand risks.
+security resources /budget can use this tool to better understand level of risk.
 
 # Key Highlights :mag_right:
 
